@@ -1,6 +1,7 @@
 # CHANGELOG
 
-## 4/28/24 
+## 4/29/24 
+
 ### Contributors
 Max Gibson, Ronald Ferro-Guerra, Ahn Le
 
